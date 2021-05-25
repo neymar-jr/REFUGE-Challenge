@@ -4,7 +4,7 @@
 
 This is REFUGE Challenge repository
 
-# Optic Disc Cup Segmentation
+# Optic Disc and Cup Segmentation
 
 I use ResNet50 as the backbone, [refuge-evaluation](https://github.com/ignaciorlando/refuge-evaluation) to evaluate model' performance, propose two ways to improve DeepLabV3Plus-Based model's performance, .
 
