@@ -94,6 +94,6 @@ if __name__ == '__main__':
     valid_txt_path = os.path.join("../", "refuge", "valid.txt")
     valid_mask_txt_path = os.path.join("../", "refuge", "valid_mask.txt")
 
-    # gen_edge(train_txt_path, train_mask_txt_path)
-    gen_edge(valid_txt_path, valid_mask_txt_path)
+    gen_edge(train_txt_path, train_mask_txt_path)
+    # gen_edge(valid_txt_path, valid_mask_txt_path)
 
